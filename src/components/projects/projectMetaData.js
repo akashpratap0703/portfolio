@@ -1,0 +1,43 @@
+var project =[{
+    label:"Reactjs",
+    name:"Text Utils",
+    description:"React based application which has various functionalities to manipulate text according to the need of user. It has both light and dark mode with react router for easy transition.",
+    techStack:"JS",
+    img:"./projectImg/textUtils.png",
+    codeurl:"https://github.com/akashpratap0703/textUtil",
+    visiturl:"https://akashpratap0703.github.io/textUtil/",
+    isDisableCode:'',
+    isDisableVist:'',
+},{
+    label:"Reactjs",
+    name:"News App",
+    description:"NewsApp shows latest news and you can see any news you want like business, technology, sports, health, entertainment, science",
+    techStack:"JS,React",
+    img:"./projectImg/newsApp.png",
+    codeurl:"https://github.com/akashpratap0703/newsapp",
+    visiturl:"",
+    isDisableCode:'',
+    isDisableVisit:"disabled",
+},{
+    label:"ML,python",
+    name:"Date Prediction Model",
+    description:"A Supervised learning model that learns from past data Model which uses support vectorregression to predict the payment dates of the invoices and also categorizes them into several buckets based on the no. of days delayed",
+    techStack:"Python,Pandas",
+    img:"./projectImg/date_prediction.jpeg",
+    codeurl:"",
+    visiturl:"",
+    isDisableCode:'',
+    isDisableVisit:"disabled",
+},{
+    label:"Reactjs,java",
+    name:"Invoice Management Application",
+    description:"React Based application which is integrated with the date predication model. It provides functionalities to add, edit, delete and search the data in the loaded grid using sql queries and java in backend.",
+    techStack:"JS",
+    img:"./projectImg/invoice.png",
+    codeurl:"",
+    visiturl:"",
+    isDisableCode:'',
+    isDisableVisit:"disabled",
+}]
+
+export default project;
