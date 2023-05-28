@@ -28,7 +28,7 @@ var msg = document.getElementById("msg")
                     <p><i className='fas fa-phone-square-alt '></i>8299821512</p>
                     <div className='social-icons'>
                         <a href="https://leetcode.com/akashpratap0703/" target="_blank" rel="noreferrer" title="leetcode"><i className="fa-solid fa-laptop-code"></i></a>
-                        <a href="/"><i className='fab fa-twitter-square'></i></a>
+                        <a href="https://twitter.com/akash0703" target="_blank" rel="noreferrer" title="twitter"><i className='fab fa-twitter-square'></i></a>
                         <a href="https://www.instagram.com/pr_tapakash/" target="_blank" rel="noreferrer" title="instagram"><i className='fab fa-instagram'></i></a>
                         <a href="https://www.linkedin.com/in/akash-pratap-599006202/" target="_blank" rel="noreferrer" title="linkedin"><i className='fab fa-linkedin'></i></a>
                     </div>
