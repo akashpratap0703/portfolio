@@ -32,7 +32,7 @@ var msg = document.getElementById("msg")
                         <a href="https://www.instagram.com/pr_tapakash/" target="_blank" rel="noreferrer" title="instagram"><i className='fab fa-instagram'></i></a>
                         <a href="https://www.linkedin.com/in/akash-pratap-599006202/" target="_blank" rel="noreferrer" title="linkedin"><i className='fab fa-linkedin'></i></a>
                     </div>
-                    <a href="../images/Resume.pdf" download className='btn btn2'>Download Resume</a>
+                    <a href="./resume.pdf" download className='btn btn2'>Download Resume</a>
                 </div>
                 <div className='contact-right'>
                     <form name='submit-to-google-sheet'>
